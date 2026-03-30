@@ -3,7 +3,7 @@ Projeto desenvolvido com React e Tailwind CSS para praticar a metodologia Mobile
 ### 🛠️ Como rodar
 
 ```
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/renatomart15/covid19-vaccination
 npm install
 npm run dev
 ```
