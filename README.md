@@ -7,3 +7,13 @@ git clone https://github.com/renatomart15/covid19-vaccination
 npm install
 npm run dev
 ```
+###  Preview em dispositivos
+
+## Mobile 📱
+<img width="800" height="600" alt="mobile" src="https://github.com/user-attachments/assets/8c15ecda-4009-42d5-91fd-c48d6d5dfc3a" />
+
+## Mobile 🔳
+<img width="800" height="450" alt="tab" src="https://github.com/user-attachments/assets/01221fcb-000a-4fc8-9091-2f0837aa53bd" />
+
+## Mobile 💻
+<img width="800" height="600" alt="desktop" src="https://github.com/user-attachments/assets/f15e92a8-0846-473c-8c7a-3f4ab04d96f5" />
